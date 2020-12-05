@@ -1,0 +1,7 @@
+#Archivos de modulos
+node_modules/
+# Variables de entorno
+./env
+
+# Archivo para pruebas de peticiones HTTP
+request/
